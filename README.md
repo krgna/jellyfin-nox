@@ -12,3 +12,8 @@ Jellyfin ve NOX headless Web-UI kurulumunu otomatikleştirmek için oluşturulmu
 > 
 > Alt yazılar **.mp4** dosyası ile aynı **isime** sahip olmalıdır.
 
+# Naming rules for external files
+
+> Jellyfin will search for external files that exactly match the video filename. They can optionally include a language which will only be used if the language cannot be determined from the file metadata.
+
+> If multiple languages are defined within the filename the last one will be used and the others ignored.
