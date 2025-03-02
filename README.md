@@ -1,4 +1,4 @@
- Jellyfin ve NOX
+
 
 Jellyfin ve NOX headless Web-UI kurulumunu otomatikleştirmek için oluşturulmuş shell scripti.
 
