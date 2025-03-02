@@ -27,6 +27,7 @@ curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/a
 - İndirdiğiniz dosyayı açmak için:
 
   ```sh
+  sudo apt-get install unzip -y 
   unzip subtitleID.zip
   ```
 
