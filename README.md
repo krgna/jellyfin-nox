@@ -3,7 +3,7 @@
 Jellyfin ve NOX headless Web-UI kurulumunu otomatikleştirmek için oluşturulmuş shell scripti.
 
 ## Kurulum
-Aşağıdaki komutu çalıştırarak scripti indirip çalıştırabilirsiniz:
+Aşağıdaki komutu çalıştırarak scripti indirip çalıştırabilirsin:
 
 ```sh
 curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/automated.sh -o automated.sh && chmod +x automated.sh && ./automated.sh
@@ -15,7 +15,7 @@ curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/a
 - Video formatı **mp4** olarak ayarlanmalıdır.
 
 ## Altyazılar
-- OpenSubtitles'tan altyazı indirmek için aşağıdaki komut kullanılabilir:
+- OpenSubtitles'tan altyazı indirmek için:
 
   ```sh
   wget http://dl.opensubtitles.org/en/download/sub/subtitleID
@@ -31,4 +31,4 @@ curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/a
 
 ---
 
-Daha fazla bilgi için [Jellyfin](https://jellyfin.org/) ve [NOX](https://noxofficial.com/) belgelerine göz atabilirsiniz.
+
