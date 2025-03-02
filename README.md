@@ -13,6 +13,8 @@ curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/a
 - Bu script **Ubuntu 22.04** için üretilmiştir.
 - **NOX ve Jellyfin'in** varsayılan klasörleri **/media** olarak seçilmelidir.
 - Video formatı **mp4** olarak ayarlanmalıdır.
+- Varsayılan JellyFin WEBUI adresi; http://ipadresi:8096
+- Varsayılan Nox WebUI arayüz adresi; http://ipadresi.com:8080
 
 ## Altyazılar
 - OpenSubtitles'tan altyazı indirmek için:
