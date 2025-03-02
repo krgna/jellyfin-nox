@@ -20,7 +20,8 @@ curl -sSL https://raw.githubusercontent.com/krgna/jellyfin-nox/refs/heads/main/a
 - OpenSubtitles'tan altyazı indirmek için:
 
   ```sh
-  wget http://dl.opensubtitles.org/en/download/sub/subtitleID
+  curl -o outputname.zip -A "Mozilla/5.0" "http://dl.opensubtitles.org/en/download/sub/ID"
+
   ```
   
 - İndirdiğiniz dosyayı açmak için:
