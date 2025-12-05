@@ -13,7 +13,7 @@ PGID=$(id -g)
 TZ_SET="Europe/Istanbul"
 
 echo "#####################################################"
-echo "# Docker Medya Yığını Kurulumu (Optimize Edilmiş)   #"
+echo "# Docker Medya   #"
 echo "#####################################################"
 
 if ! command -v docker &> /dev/null; then
