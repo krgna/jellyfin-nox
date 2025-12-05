@@ -1,4 +1,4 @@
-# 🎬 Jellyfin & qBittorrent Medya Yığını (Docker)
+# 🎬 Jellyfin & qBittorrent (Docker)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white) ![qBittorrent](https://img.shields.io/badge/qbittorrent-4D9CFF?style=for-the-badge&logo=qbittorrent&logoColor=white)
 
